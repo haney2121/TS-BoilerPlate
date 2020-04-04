@@ -1,6 +1,6 @@
 ## Start up
 
-run npm start on a terminal to start the lite server
+#run npm start on a terminal to start the lite server
 run tsc -w FILE.ts on another terminal to watch changes for a single file
 run tsc to do all files in project add -w to watch all
 
